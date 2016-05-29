@@ -1,5 +1,4 @@
-# galang_packages
-golang 开发使用的套件
+本目录记录了我的golang相关的开发套件
 
 ## 网络通信套件
   https://github.com/wilsonloo/galang_packages.git
