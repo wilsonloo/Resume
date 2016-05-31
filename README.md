@@ -8,3 +8,6 @@
   https://github.com/google/protobuf/releases 下载 windowns 的 protoc.exe 这是主要的关键程序（linux 相同）
   https://github.com/golang/protobuf 获取针对 golang的 protobuf 插件 protoc-gen-go.exe 需要由golang 编译产生
   再使用 protoc-gen-go.exe 将 协议.proto 文件 生成 协议.go 文件
+
+## 数据库 redis
+  https://github.com/garyburd/redigo.git
