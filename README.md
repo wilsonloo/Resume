@@ -11,3 +11,6 @@
 
 ## 数据库 redis
   https://github.com/garyburd/redigo.git
+
+## 配置表处理
+  https://github.com/larspensjo/config.git
