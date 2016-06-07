@@ -14,3 +14,6 @@
 
 ## 配置表处理
   https://github.com/larspensjo/config.git
+
+## GCC 编译颜色输出
+  https://github.com/chinaran/color-compile.git
