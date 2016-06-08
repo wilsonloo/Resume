@@ -17,3 +17,6 @@
 
 ## GCC 编译颜色输出
   https://github.com/chinaran/color-compile.git
+
+## my_log 基于golang的log wrapper，以后内部实现可以其他log库
+  https://github.com/wilsonloo/my_log.git
