@@ -1,5 +1,7 @@
-本目录记录了我的golang相关的开发套件
+本目录记录了我的coding开发套件
 
+# ==========================================================================================================
+# Golang
 ## 网络通信套件
   https://github.com/wilsonloo/galang_packages.git <br/>
   这是基于事件驱动的网络通信框架
@@ -15,8 +17,14 @@
 ## 配置表处理
   https://github.com/larspensjo/config.git
 
-## GCC 编译颜色输出
-  https://github.com/chinaran/color-compile.git
 
 ## my_log 基于golang的log wrapper，以后内部实现可以其他log库
   https://github.com/wilsonloo/my_log.git
+  
+# ==========================================================================================================
+# C/C++
+## GCC 编译颜色输出
+  https://github.com/chinaran/color-compile.git
+
+## 功能套件：常规的头文件使用式功能函数
+  https://github.com/wilsonloo/utility.git
