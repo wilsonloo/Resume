@@ -43,20 +43,20 @@
 <br/><br/>
 ## https://github.com/wilsonloo/utility（私有）
 个人辅助工具：<br/>
-					auto_link.h              windowns下自动链接对应库服辅助类（参考自boost的库自动链接）<br/>
-					bitmap_recorder.hpp      位图（位大小可为一位或一个字节）<br/>
-					console.hpp              终端输入处理，将输入的数值用std::vector 维护，由客户提供线程进行驱动<br/>
-					data_dump.hpp            内存数据可视化显示<br/>
-					fixed_size_object_pool.h 固定大小的对象池<br/>
-					message_block.hpp        消息块<br/>
-					message_queue.hpp        基于message_block 的消息队列<br/>
-					mini_dump.h              windowns下的core dump 生成工具<br/>
-					read_write_array.hpp     读写队列（双缓冲池）<br/>
-					singleton.hpp            单体模板<br/>
-					task_base.hpp            任务队列<br/>
-					uuid_generator.hpp       uuid 生成器<br/>
-					varlen_struct.hpp        边长结构体<br/>
-					winsock_wrapper.h        windowns下的 winsock(2).h 与 windowns.h 的包含顺序辅助<br/>
+	auto_link.h ------------- windowns下自动链接对应库服辅助类（参考自boost的库自动链接）<br/>
+	bitmap_recorder.hpp ----- 位图（位大小可为一位或一个字节）<br/>
+	console.hpp ------------- 终端输入处理，将输入的数值用std::vector 维护，由客户提供线程进行驱动<br/>
+	data_dump.hpp ----------- 内存数据可视化显示<br/>
+	fixed_size_object_pool.h- 固定大小的对象池<br/>
+	message_block.hpp ------- 消息块<br/>
+	message_queue.hpp ------- 基于message_block 的消息队列<br/>
+	mini_dump.h ------------- windowns下的core dump 生成工具<br/>
+	read_write_array.hpp ---- 读写队列（双缓冲池）<br/>
+	singleton.hpp ----------- 单体模板<br/>
+	task_base.hpp ----------- 任务队列<br/>
+	uuid_generator.hpp ------ uuid 生成器<br/>
+	varlen_struct.hpp ------- 边长结构体<br/>
+	winsock_wrapper.h ------- windowns下的 winsock(2).h 与 windowns.h 的包含顺序辅助<br/>
 
 ## 以下只是封装，或者备份
 ### https://github.com/wilsonloo/evl_logger 基于log4cplus 的log<br/>
